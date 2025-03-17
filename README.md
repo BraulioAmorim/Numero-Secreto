@@ -1,4 +1,4 @@
-# Jogo do Número Secreto
+# Jogo do Número Secreto 
 
 Este é um jogo simples onde o jogador deve adivinhar um número secreto gerado aleatoriamente pelo sistema.
 
